@@ -10,7 +10,6 @@ Felipe Marques Leite Marta RA: 10437877
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
-#include <math.h>
 
 int main(int argc, char *argv[])
 {
