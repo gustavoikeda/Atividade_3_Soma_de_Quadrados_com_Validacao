@@ -1,3 +1,12 @@
+/*
+Alunos:
+Pedro Montarroyos de Pinho RA: 10440213
+Gustavo Kiyoshi Ikeda RA: 10439179
+Felipe Marques Leite Marta RA: 10437877
+
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
